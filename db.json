@@ -1,0 +1,65 @@
+{
+  "rooms": [
+    {
+      "src": "/1.JPG",
+      "title": "Mama's Kitchen",
+      "stars": "American, 4.7 stars",
+      "badges": [],
+      "features": ["2-х местный номер", "₽3700 за ночь"],
+      "id": "4a2b"
+    },
+    {
+      "src": "/2.JPG",
+      "title": "The Burger Joint",
+      "stars": "American, 4.6 stars",
+      "badges": ["Вид на море", "Душ в номере"],
+      "features": ["2-х местный номер", "₽15 000 за ночь"],
+      "price": "₽15 000",
+      "id": "04a3"
+    },
+    {
+      "src": "/3.JPG",
+      "title": "Pasta Express",
+      "stars": "Italian, 4.5 stars",
+      "badges": ["Питание включено", "Душ в номере", "Трансфер", "Предоплата"],
+      "features": ["2-х местный номер", "₽99 999 за ночь"],
+      "price": "₽99 999",
+      "id": "059b"
+    },
+    {
+      "src": "/4.JPG",
+      "title": "Pasta Express",
+      "stars": "Mexican, 4.8 stars",
+      "badges": ["Питание включено", "Душ в номере", "Трансфер", "Предоплата"],
+      "features": ["2-х местный номер", "₽99 999 за ночь"],
+      "id": "059a"
+    }
+  ],
+  "orders": [
+    {
+      "id": "779b",
+      "name": "test",
+      "phone": "9999692762"
+    },
+    {
+      "id": "8205",
+      "name": "sasha",
+      "phone": "89067604668"
+    },
+    {
+      "id": "5af6",
+      "name": "Александр",
+      "phone": "89067604668"
+    },
+    {
+      "id": "d721",
+      "name": "Александр",
+      "phone": "+79999692762"
+    },
+    {
+      "id": "7876",
+      "name": "Dilora",
+      "phone": "+99363473444"
+    }
+  ]
+}
